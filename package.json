@@ -1,0 +1,24 @@
+{
+  "name": "json-quotes",
+  "version": "1.0.0",
+  "description": "For these unescaped double quote in property value of json, escape it by using escape character \"\\\".",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DannyChanSz/json-quotes.git"
+  },
+  "keywords": [
+    "json",
+    "quotes",
+    "escape"
+  ],
+  "author": "dannychansz@live.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DannyChanSz/json-quotes/issues"
+  },
+  "homepage": "https://github.com/DannyChanSz/json-quotes#readme"
+}
