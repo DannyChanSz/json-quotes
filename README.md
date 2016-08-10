@@ -1,10 +1,11 @@
 #json-quotes
 
-Escape the unescaped double quotes in json property value with "\" escape character
+For these unescaped double quote in property value of json, escape it by using escape character "\".
 
 处理JSON属性值中未转义的双引号
 
 From: '"title":"Where is the "sp" office?"' 
+
 To:'"title":"Where is the \"sp\" office?"' 
 
 ##Usage
