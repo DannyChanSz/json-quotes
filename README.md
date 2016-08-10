@@ -1,9 +1,11 @@
 #json-quotes
 
-Parse the quotes(") that in json string content to '\"';
+Escape the unescaped double quotes in json property value with "\" escape character
 
-Some json string like: '"title":"Where is the "sp" office?"' 
-parse to:'"title":"Where is the \"sp\" office?"' 
+处理JSON属性值中未转义的双引号
+
+From: '"title":"Where is the "sp" office?"' 
+To:'"title":"Where is the \"sp\" office?"' 
 
 ##Usage
 
